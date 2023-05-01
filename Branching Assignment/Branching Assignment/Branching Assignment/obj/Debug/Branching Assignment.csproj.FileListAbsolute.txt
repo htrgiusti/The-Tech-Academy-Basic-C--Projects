@@ -1,7 +1,0 @@
-C:\Users\Administrator\Desktop\Branching Assignment\Branching Assignment\Branching Assignment\bin\Debug\Branching Assignment.exe.config
-C:\Users\Administrator\Desktop\Branching Assignment\Branching Assignment\Branching Assignment\bin\Debug\Branching Assignment.exe
-C:\Users\Administrator\Desktop\Branching Assignment\Branching Assignment\Branching Assignment\bin\Debug\Branching Assignment.pdb
-C:\Users\Administrator\Desktop\Branching Assignment\Branching Assignment\Branching Assignment\obj\Debug\Branching Assignment.csproj.AssemblyReference.cache
-C:\Users\Administrator\Desktop\Branching Assignment\Branching Assignment\Branching Assignment\obj\Debug\Branching Assignment.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Desktop\Branching Assignment\Branching Assignment\Branching Assignment\obj\Debug\Branching Assignment.exe
-C:\Users\Administrator\Desktop\Branching Assignment\Branching Assignment\Branching Assignment\obj\Debug\Branching Assignment.pdb
