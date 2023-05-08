@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Iteration Assignment\Iteration Assignment\Iteration Assignment\bin\Debug\Iteration Assignment.exe.config
+C:\Users\Administrator\Desktop\Iteration Assignment\Iteration Assignment\Iteration Assignment\bin\Debug\Iteration Assignment.exe
+C:\Users\Administrator\Desktop\Iteration Assignment\Iteration Assignment\Iteration Assignment\bin\Debug\Iteration Assignment.pdb
+C:\Users\Administrator\Desktop\Iteration Assignment\Iteration Assignment\Iteration Assignment\obj\Debug\Iteration Assignment.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Iteration Assignment\Iteration Assignment\Iteration Assignment\obj\Debug\Iteration Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Iteration Assignment\Iteration Assignment\Iteration Assignment\obj\Debug\Iteration Assignment.exe
+C:\Users\Administrator\Desktop\Iteration Assignment\Iteration Assignment\Iteration Assignment\obj\Debug\Iteration Assignment.pdb
