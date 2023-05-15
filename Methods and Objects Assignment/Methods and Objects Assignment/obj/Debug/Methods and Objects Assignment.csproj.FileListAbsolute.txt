@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\Methods and Objects Assignment\bin\Debug\Methods and Objects Assignment.exe.config
+C:\Users\Administrator\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\Methods and Objects Assignment\bin\Debug\Methods and Objects Assignment.exe
+C:\Users\Administrator\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\Methods and Objects Assignment\bin\Debug\Methods and Objects Assignment.pdb
+C:\Users\Administrator\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\Methods and Objects Assignment.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\Methods and Objects Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\Methods and Objects Assignment.exe
+C:\Users\Administrator\Desktop\Methods and Objects Assignment\Methods and Objects Assignment\Methods and Objects Assignment\obj\Debug\Methods and Objects Assignment.pdb
