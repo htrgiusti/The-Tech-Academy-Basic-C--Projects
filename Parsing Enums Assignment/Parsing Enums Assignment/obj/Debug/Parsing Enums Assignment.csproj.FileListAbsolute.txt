@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Parsing Enums Assignment\Parsing Enums Assignment\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.exe.config
+C:\Users\Administrator\Desktop\Parsing Enums Assignment\Parsing Enums Assignment\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.exe
+C:\Users\Administrator\Desktop\Parsing Enums Assignment\Parsing Enums Assignment\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.pdb
+C:\Users\Administrator\Desktop\Parsing Enums Assignment\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Parsing Enums Assignment\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Parsing Enums Assignment\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.exe
+C:\Users\Administrator\Desktop\Parsing Enums Assignment\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.pdb
