@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Struct Assignment\Struct Assignment\Struct Assignment\bin\Debug\Struct Assignment.exe.config
+C:\Users\Administrator\Desktop\Struct Assignment\Struct Assignment\Struct Assignment\bin\Debug\Struct Assignment.exe
+C:\Users\Administrator\Desktop\Struct Assignment\Struct Assignment\Struct Assignment\bin\Debug\Struct Assignment.pdb
+C:\Users\Administrator\Desktop\Struct Assignment\Struct Assignment\Struct Assignment\obj\Debug\Struct Assignment.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Struct Assignment\Struct Assignment\Struct Assignment\obj\Debug\Struct Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Struct Assignment\Struct Assignment\Struct Assignment\obj\Debug\Struct Assignment.exe
+C:\Users\Administrator\Desktop\Struct Assignment\Struct Assignment\Struct Assignment\obj\Debug\Struct Assignment.pdb
