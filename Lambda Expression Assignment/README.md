@@ -1,5 +1,5 @@
 # Lambda Expression Assignment
-This is a C# Assignment from The Tech Academy. 
+This is a C# Assignment from The Tech Academy bootcamp. 
 In this assignment I had to perform these actions and create a console app that includes the following:
 
 **1. Create an Employee class with the following properties:**
