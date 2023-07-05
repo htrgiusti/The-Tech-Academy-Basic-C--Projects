@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Code first assignment\CodeFirst Assignment\CodeFirst Assignment\bin\Debug\CodeFirst Assignment.exe.config
+C:\Users\Administrator\Desktop\Code first assignment\CodeFirst Assignment\CodeFirst Assignment\bin\Debug\CodeFirst Assignment.exe
+C:\Users\Administrator\Desktop\Code first assignment\CodeFirst Assignment\CodeFirst Assignment\bin\Debug\CodeFirst Assignment.pdb
+C:\Users\Administrator\Desktop\Code first assignment\CodeFirst Assignment\CodeFirst Assignment\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\Code first assignment\CodeFirst Assignment\CodeFirst Assignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Code first assignment\CodeFirst Assignment\CodeFirst Assignment\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\Code first assignment\CodeFirst Assignment\CodeFirst Assignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\Code first assignment\CodeFirst Assignment\CodeFirst Assignment\obj\Debug\CodeFirst Assignment.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Code first assignment\CodeFirst Assignment\CodeFirst Assignment\obj\Debug\CodeFirst Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Code first assignment\CodeFirst Assignment\CodeFirst Assignment\obj\Debug\CodeFirst Assignment.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Code first assignment\CodeFirst Assignment\CodeFirst Assignment\obj\Debug\CodeFirst Assignment.exe
+C:\Users\Administrator\Desktop\Code first assignment\CodeFirst Assignment\CodeFirst Assignment\obj\Debug\CodeFirst Assignment.pdb
