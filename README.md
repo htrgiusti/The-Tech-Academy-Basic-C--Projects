@@ -1,8 +1,8 @@
 # C# Project
 This is a small project I made using C# and .NET Framework
 
-# Projects: 
-- [Car Insurance]([https://github.com/htrgiusti/HTML-and-CSS-Projects-Pitman-Training-/tree/main/One-Page%20Website%20Assignment%20Submission](https://github.com/htrgiusti/The-Tech-Academy-Basic-C--Projects/tree/main/CarInsurance/CarInsurance)https://github.com/htrgiusti/The-Tech-Academy-Basic-C--Projects/tree/main/CarInsurance/CarInsurance)
+# Project: 
+- [Car Insurance](https://github.com/htrgiusti/The-Tech-Academy-Basic-C--Projects/tree/main/CarInsurance/CarInsurance)
 
 **Car Insurance -**
 
